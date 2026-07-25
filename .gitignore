@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Environment
+.env
+
+# Node
+node_modules/
+
+# Build
+dist/
+build/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Vector database
+vector_db/
+
+# Python caches
+.pytest_cache/
+
+# Coverage
+.coverage
+
+# Temporary
+*.tmp
