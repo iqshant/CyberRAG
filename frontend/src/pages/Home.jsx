@@ -25,8 +25,8 @@ function Home() {
     hour < 12
       ? "Good Morning 👋"
       : hour < 18
-      ? "Good Afternoon 👋"
-      : "Good Evening 👋";
+        ? "Good Afternoon 👋"
+        : "Good Evening 👋";
 
   return (
     <main className="flex flex-1 items-center justify-center px-8">
